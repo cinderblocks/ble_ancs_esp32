@@ -1,0 +1,6 @@
+.DS_Store
+.bin_timestamp
+*.swp
+build/
+cmake-build-*
+.idea/
